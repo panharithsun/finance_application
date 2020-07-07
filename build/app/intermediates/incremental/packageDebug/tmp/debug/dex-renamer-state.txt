@@ -1,0 +1,4 @@
+#Tue Jul 07 23:36:58 ICT 2020
+base.0=C\:\\Users\\sunpa\\Desktop\\FLUTTER\\finance_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
